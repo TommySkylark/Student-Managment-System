@@ -2,7 +2,9 @@
 
 This is a student management system built using **Django 4**, **HTML 5**, **CSS 3**, and **Bootstrap 5**.
 
-![Alt text](static/images/student_managment_system.png?raw=true "Student Managment System")
+![Alt text](../static/images/student_managment_system.png)
+
+
 
 ## Table of Contents 
 - [Prerequisites](#prerequisites)
