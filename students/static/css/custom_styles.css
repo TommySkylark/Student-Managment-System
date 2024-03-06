@@ -1,0 +1,23 @@
+/* Change navbar background color */
+.navbar-dark.bg-primary {
+    background-color: #28a745 !important;
+}
+
+/* Change primary button colors */
+.btn-primary {
+    background-color: #28a745 !important;
+    border-color: #28a745 !important;
+}
+
+/* Adjust the hover state for buttons if needed */
+.btn-primary:hover {
+    background-color: #218838 !important;
+    border-color: #1e7e34 !important;
+}
+
+/* You may also need to adjust modal header, links or other elements specifically styled with the primary color */
+.modal-header {
+    background-color: #28a745 !important;
+}
+
+/* And so on for other elements... */
