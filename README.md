@@ -97,3 +97,4 @@ Go to http://127.0.0.1:8000/ to view the application.
 Go to http://127.0.0.1:8000/admin to view the application.
 
 # Student-Managment-System
+# Student-Managment-System
